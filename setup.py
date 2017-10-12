@@ -55,7 +55,7 @@ finally:
     sys.path[:] = orig_path
 
 
-NAME = 'extended-celery-3-1-25'
+NAME = 'celery'
 entrypoints = {}
 extra = {}
 
